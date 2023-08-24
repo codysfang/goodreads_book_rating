@@ -1,2 +1,3 @@
-# Book rating predictions from goodreads data set 
-Collaborator: Matthew Cho, University of Melbourne Teaching team (COMP30027)
+# Book rating predictions from Goodreads data set
+Collaborator: Matthew Cho
+Word embeddings and data set provided by University of Melbourne Teaching team (COMP30027)
